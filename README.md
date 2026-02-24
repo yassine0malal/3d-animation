@@ -15,7 +15,6 @@ How to view
 
 ```bash
 # from the 3d-project directory
-python3 -m http.server 8000
 # then open http://localhost:8000 in your browser
 ```
 
